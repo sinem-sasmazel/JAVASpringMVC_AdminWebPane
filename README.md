@@ -24,6 +24,7 @@ Signing up with admin credentials.
 If another user who have not admin rights tries to login, s/he will be forwarded to login page. 
 ![Login](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/Login.JPG)
 
+Hibernate is used when any product is inserted to db. All entities are created from db tables thanks to JPA.
 ![ProductInsert](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/ProductInsert.JPG)
 
 ![ProductList](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/ProductList.JPG)
