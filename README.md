@@ -19,7 +19,7 @@ Products, users and roles are maintained in tables.
 
 ## Screenshots
 
-![MainFrame](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/mainFrame.png)
+![MainFrame](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/Login.JPG)
 ![NewCustomer](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/NewCustomer.png)
 ![NewOrder](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/NewOrder.png)
 ![UpdateCustomer](https://github.com/sinem-sasmazel/java_water_sales_automation/blob/master/screenshots/UpdateCustomer.png)
