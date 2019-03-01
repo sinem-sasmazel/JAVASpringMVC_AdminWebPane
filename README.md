@@ -21,7 +21,7 @@ Products, users and roles are maintained in tables.
 Signing up with admin credentials. 
 ![SignUp](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/SignUp.JPG)
 
-If another user who have not admin rights try to login, s/he will be forwarded to login page. 
+If another user who have not admin rights tries to login, s/he will be forwarded to login page. 
 ![Login](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/Login.JPG)
 
 ![ProductInsert](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/ProductInsert.JPG)
