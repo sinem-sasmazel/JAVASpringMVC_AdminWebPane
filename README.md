@@ -18,9 +18,13 @@ MySQL is used in the project. XAMPP software is used to host database locally.
 Products, users and roles are maintained in tables.
 
 ## Screenshots
-
+Signing up with admin credentials. 
 ![SignUp](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/SignUp.JPG)
+
+If another user who have not admin rights try to login, s/he will be forwarded to login page. 
 ![Login](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/Login.JPG)
+
 ![ProductInsert](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/ProductInsert.JPG)
+
 ![ProductList](https://github.com/sinem-sasmazel/JAVASpringMVC_AdminWebPane/blob/master/screenshots/ProductList.JPG)
 
